@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--
-**Naveenasethu004/Naveenasethu004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Student || UPES'26-CSE</h2>
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🔭 I’m currently working on C and python language.
+- 🌱 I’m currently learning python and data structures of C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 📫 How to reach me: Naveena.sethu004@gmail.com
+- 😄 Pronouns: she/her
+
